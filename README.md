@@ -1,7 +1,7 @@
 # Customer-Segmentation-AV-JH
 
 
-https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#MySubmissions
+https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/
 
 
 An automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4 and P5). After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market. 
@@ -48,6 +48,6 @@ Segmentation: Predicted segment for customers in the test set
 
 
 
-Evaluation Metric
+**Evaluation Metric:**
 The evaluation metric for this hackathon is Accuracy Score.
 
