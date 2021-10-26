@@ -13,6 +13,7 @@ You are required to help the manager to predict the right group of the new custo
 
 
 **Data Description **
+
 Variable	Definition
 
 ID; Unique ID
